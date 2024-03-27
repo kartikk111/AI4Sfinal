@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+uselesswebsitelogi.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1711561207|m6NEoq4wVA-Z
+uselesswebsitelogi.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+uselesswebsitelogi.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=uw2-pub-1_g
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01286b42af464fd4afe0cbd861d54c313bc44ea2daac6ee55c869410327800503992756a0f44ba453b8fb94c3b8746015e6dd689d4
+
